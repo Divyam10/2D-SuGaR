@@ -1,0 +1,15 @@
+[submodule "gaussian_splatting/submodules/simple-knn"]
+	path = gaussian_splatting/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "gaussian_splatting_2d/submodules/simple-knn"]
+	path = gaussian_splatting_2d/submodules/simple-knn
+	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+[submodule "gaussian_splatting_2d/submodules/diff-surfel-rasterization"]
+	path = gaussian_splatting_2d/submodules/diff-surfel-rasterization
+	url = https://github.com/hbb1/diff-surfel-rasterization.git
+[submodule "gaussian_splatting/submodules/diff-gaussian-rasterization"]
+	path = gaussian_splatting/submodules/diff-gaussian-rasterization
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
+[submodule "gaussian_splatting/SIBR_viewers"]
+	path = gaussian_splatting/SIBR_viewers
+	url = https://gitlab.inria.fr/sibr/sibr_core.git
