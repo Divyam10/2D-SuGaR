@@ -8,7 +8,7 @@ $^1$ TU Darmstadt &nbsp;&nbsp; $^2$ ELIZA &nbsp;&nbsp; $^3$ Max Planck Institute
 
 *Eurographics 2026 (Short Papers)*
 
-[![Project Page](https://img.shields.io/badge/Project_Page-Live-blue)](https://divyam10.github.io/2D-SuGaR-page/) &nbsp;&nbsp; [![arXiv](https://img.shields.io/badge/arXiv-Coming_Soon-red)](.)
+[![Project Page](https://img.shields.io/badge/Project_Page-Live-blue)](https://divyam10.github.io/2D-SuGaR-page/) &nbsp;&nbsp; [![arXiv](https://img.shields.io/badge/preprint-2605.00569-red)](https://arxiv.org/abs/2605.00569)
 
 <br>
 <br>
@@ -33,7 +33,7 @@ novel view synthesis.
 
 ## TODO
 
-- [ ] Release arXiv paper
+- [x] Release arXiv paper
 - [x] Release project page
 - [ ] Attach DTU reconstructions
 - [x] Release training and evaluation code
@@ -427,6 +427,23 @@ This example consists of a very small object on a flat and largely plain surface
 </div>
 
 </details>
+
+
+## Citation
+
+If you find our work useful, please consider citing:
+
+```bibtex
+@misc{r20262dsugarsurfaceawaregaussiansplatting,
+      title={2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction}, 
+      author={Prajwal Gupta C. R. and Divyam Sheth and Jinjoo Ha and Mirela Ostrek and Justus Thies},
+      year={2026},
+      eprint={2605.00569},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.00569}, 
+}
+```
 
 
 ## Acknowledgements
