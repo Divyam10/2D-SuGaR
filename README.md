@@ -434,14 +434,16 @@ This example consists of a very small object on a flat and largely plain surface
 If you find our work useful, please consider citing:
 
 ```bibtex
-@misc{r20262dsugarsurfaceawaregaussiansplatting,
-      title={2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction}, 
-      author={Prajwal Gupta C. R. and Divyam Sheth and Jinjoo Ha and Mirela Ostrek and Justus Thies},
-      year={2026},
-      eprint={2605.00569},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2605.00569}, 
+@inproceedings{10.2312:egs.20261022,
+booktitle = {Eurographics 2026 - Short Papers},
+editor = {},
+title = {{2D-SuGaR: Surface-Aware Gaussian Splatting for Geometrically Accurate Mesh Reconstruction}},
+author = {Gupta, C. R. Prajwal and Sheth, Divyam and Ha, Jinjoo and Ostrek, Mirela and Thies, Justus},
+year = {2026},
+publisher = {The Eurographics Association},
+ISSN = {2309-5059},
+ISBN = {978-3-03868-299-8},
+DOI = {10.2312/egs.20261022}
 }
 ```
 
